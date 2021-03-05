@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AdaptorApp</string>
+
+    <string-array name="person_names">
+        <item>Vaysa</item>
+        <item>Petya</item>
+        <item>Sasha</item>
+        <item>Alexey</item>
+        <item>Masha</item>
+        <item>Kuzya</item>
+        <item>Vova</item>
+        <item>Pasha</item>
+        <item>Vaysa</item>
+        <item>Petya</item>
+        <item>Sasha</item>
+        <item>Alexey</item>
+        <item>Masha</item>
+        <item>Kuzya</item>
+        <item>Vova</item>
+        <item>Pasha</item>
+
+
+    </string-array>
+
+
+</resources>
