@@ -47,6 +47,14 @@
         app:layout_constraintTop_toBottomOf="@+id/autocomplete_view_button"
         tools:layout_editor_absoluteX="16dp" />
 
+    <Button
+        android:id="@+id/fragment_view_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="fragment view"
+        app:layout_constraintTop_toBottomOf="@+id/recycler_view_button"
+        tools:layout_editor_absoluteX="16dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
